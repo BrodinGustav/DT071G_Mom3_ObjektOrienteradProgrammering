@@ -36,10 +36,12 @@ class Program
                 {
                     //Skapa inlägg
                     case 1:
+                    Console.Clear();
                      Console.Write("Ange ägare: ");
                         string owner = Console.ReadLine();
                         Console.Write("Ange kommentar: ");
                         string comment = Console.ReadLine();
+                     
 
                     //Kontroll om input är korrekt
                             if (string.IsNullOrWhiteSpace(owner) || string.IsNullOrWhiteSpace(comment))
@@ -56,6 +58,7 @@ class Program
                 
                     //Radera inlägg
                     case 2:
+                    Console.Clear();
                     //Anropar LoadComment för att läsa in antalet kommentarer
                      int loadedCount = guestBook.LoadComments();
 

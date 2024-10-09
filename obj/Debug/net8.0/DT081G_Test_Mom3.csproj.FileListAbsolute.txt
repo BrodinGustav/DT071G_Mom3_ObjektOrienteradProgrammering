@@ -26,3 +26,4 @@ C:\Utbildning\DT071G C#.NET\DT071G_Mom3\obj\Debug\net8.0\refint\DT081G_Test_Mom3
 C:\Utbildning\DT071G C#.NET\DT071G_Mom3\obj\Debug\net8.0\DT081G_Test_Mom3.pdb
 C:\Utbildning\DT071G C#.NET\DT071G_Mom3\obj\Debug\net8.0\DT081G_Test_Mom3.genruntimeconfig.cache
 C:\Utbildning\DT071G C#.NET\DT071G_Mom3\obj\Debug\net8.0\ref\DT081G_Test_Mom3.dll
+C:\Utbildning\DT071G C#.NET\DT071G_Mom3\obj\Debug\net8.0\DT081G_Test_Mom3.sourcelink.json
